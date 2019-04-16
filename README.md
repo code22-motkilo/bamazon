@@ -8,7 +8,7 @@ The MVP objective of this activity, was to create an Amazon-like storefront with
 
 1. Load the `bamazon.sql` script into your own local database (i.e. mysql)
 2. Add your own password to the password variable in the `bamazonCustomer.js` file.
-3. Don't forget to install in the necessary dependcies in your project root folder. Reference the 'package.json` file. 
+3. Don't forget to install in the necessary dependcies in your project root folder. Reference the `package.json` file. And since I am so nice I also included it as a reminder in the comments at top of the `bamazonCustomer.js`
 
 4. Launch the Bamazon program in the CLI from the root folder of the project using the command: `node bamazonCustomer.js`
 
