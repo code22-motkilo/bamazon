@@ -39,7 +39,7 @@ The MVP functionality includes the following:
 
    * Once the update goes through, show the customer the total cost of their purchase.
 
-  ![make selection and choose quantity example](imgs_bamazon/enter_quantity.png)
+  ![make selection and choose quantity example](imgs_bamazon/show_total_and_updates.png)
 
 
 ### Additional tasks for future builds include:
